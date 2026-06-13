@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building AI-driven full-stack applications and polishing my MERN stack skills.<br>Open-source AI/ML projects, GenAI agents, or full-stack web applications.<br>Advanced cloud deployment strategies and scale testing for deep learning models.<br>Advanced system design, next-gen AI agent architectures, and cloud-native tools.<br>Data Structures & Algorithms (DSA), the MERN stack, AWS fundamentals, or training ML models.<br>I enjoy solving technical problems and turning data into meaningful insights<br>
+- Building AI-driven full-stack applications and polishing my MERN stack skills.<br>- Open-source AI/ML projects, GenAI agents, or full-stack web applications.<br>- Advanced cloud deployment strategies and scale testing for deep learning models.<br>- Advanced system design, next-gen AI agent architectures, and cloud-native tools.<br>- Data Structures & Algorithms (DSA), the MERN stack, AWS fundamentals, or training ML models.<br>- I enjoy solving technical problems and turning data into meaningful insights<br>
 
 
 ## 🌐 Socials:
